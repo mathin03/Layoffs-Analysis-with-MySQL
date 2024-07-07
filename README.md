@@ -1,5 +1,16 @@
 The analysis on the layoffs dataset provides several key insights into the trends and distribution of layoffs across various dimensions such as companies, industries, countries, and time periods. Here are the major findings:
 
+While Exploring Data with SQL, I was working on the following things...
+
+1.Checked all the details of table such column name, data types and constraints
+2.Checked for duplicate values in  column
+3.Removed unwanted columns from table
+4.Created a Primary key
+5.Identitfied and corrected the mis-spelled city names
+6.Counted the no.of lay_offs by rolling count/moving count using windows functions
+7.Checked min,max,avg data for layoffs, percentage_layoffs & country column.
+
+
 Maximum Layoffs:
 
 The dataset contains records of significant layoffs, with the maximum number of layoffs by a single company reaching [Max Value] and the highest percentage of workforce laid off being 100%.
